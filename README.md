@@ -37,8 +37,8 @@ Construyo soluciones útiles, comprensibles y pensadas para durar.
 
 ### 📫 Contacto
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jos%C3%A8-poletto-a84a6b265/)
-- 📧 josepoletto.dev@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/josè-poletto-a84a6b265/)
+- 📧 polettojose_@hotmail.com  
 - 📍 Buenos Aires, Argentina
 
 ---
