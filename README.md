@@ -2,7 +2,7 @@
 <h2 align="center">Soy <span style="color:#00ffc3;">Seven</span> — Desarrollador Backend</h2>
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="typing animation" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTc2bGFueHM2YWlkYTgyMXFycDQzY2wybjIzYjBlanVnMTV0ZjkxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PTBVMsYIOB0SBP4MVe/giphy.gif" width="300" alt="typing animation" />
 </p>
 
 ---
