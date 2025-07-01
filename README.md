@@ -44,5 +44,5 @@ Construyo soluciones útiles, comprensibles y pensadas para durar.
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=00FFC3&width=435&lines=Pensamiento+inteligente%2C+soluciones+humanas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=00FFC3&width=600&lines=Pensamiento+inteligente%2C+soluciones+humanas" alt="Typing SVG" />
 </p>
