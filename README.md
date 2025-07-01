@@ -2,7 +2,7 @@
 <h2 align="center">Soy <span style="color:#00ffc3;">Seven</span> — Desarrollador Backend</h2>
 
 <p align="center">
-<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://giphy.com/gifs/matrix-binary-code-PTBVMsYIOB0SBP4MVe)" width="300" alt="typing animation" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="typing animation" />
 </p>
 
 ---
