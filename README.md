@@ -2,7 +2,7 @@
 <h2 align="center">Soy <span style="color:#00ffc3;">Seven</span> — Desarrollador Backend</h2>
 
 <p align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTc2bGFueHM2YWlkYTgyMXFycDQzY2wybjIzYjBlanVnMTV0ZjkxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PTBVMsYIOB0SBP4MVe/giphy.gif" width="600" alt="binary code human gif" /> 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xqOW5oenNlYzJtOHE2amE2cmFkMHJ3aTI3dDFyZ3lzbXR3ODZzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HW3T1wWW3z2Ff2cpXO/giphy.gif" width="600" alt="binary code human gif" /> 
 </p>
 
 ---
